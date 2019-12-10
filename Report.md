@@ -62,4 +62,8 @@ possible actions in a given state with only a single forward pass through the ne
     
   ###### *len*():  
   Return the current size of internal memory.
-  
+    
+      
+   ### Training
+   Finally, the training algorithm is defined at the *navigation.ipynb*, and called with the following hyperparameters values:  
+   ###### *dqn*(n_episodes=400, eps_end=0.04, eps_decay=0.95)
