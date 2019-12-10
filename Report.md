@@ -69,8 +69,8 @@ The Deep Q-Network implements the Q-Learning replacing the Q table (action-value
    ###### *dqn*(n_episodes=400, eps_end=0.04, eps_decay=0.95)
    
    # Plot of Rewards
-   As the result, the agent was able to learn with an average above 13 in .....   
-   [fig]
+   As the result, the agent was able to learn with an average above 13 in 270 episodes   
+   ![PLOT](/images/Plot.PNG)
    
    # Ideas for Future Work
-   Implementing the rainbown approach would be a good exercise for trying to improv the agents performance. Also having images as inputs could 
+   Implementing the rainbown approach would be a good exercise for trying to improve the agents performance. Also having images as inputs could be interesting to boost the algorithm general learning capabilities.
