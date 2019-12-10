@@ -67,3 +67,10 @@ The Deep Q-Network implements the Q-Learning replacing the Q table (action-value
    ### Training
    Finally, the training algorithm is defined at the *navigation.ipynb*, and called with the following hyperparameters values:  
    ###### *dqn*(n_episodes=400, eps_end=0.04, eps_decay=0.95)
+   
+   # Plot of Rewards
+   As the result, the agent was able to learn with an average above 13 in .....   
+   [fig]
+   
+   # Ideas for Future Work
+   Implementing the rainbown approach would be a good exercise for trying to improv the agents performance. Also having images as inputs could 
